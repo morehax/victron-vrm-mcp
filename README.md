@@ -179,7 +179,4 @@ Pull time-series for PV power (`PVP`) and PV voltage (`PVV`) for a time window. 
 - Helpers: `src/lib/*` (chunking, vrm utils), HTTP in `src/http.mjs`, config in `src/config.mjs`
 - Validation: `zod`; HTTP: `undici`
 
-## License
-Choose and add a license (e.g., MIT) before public release.
-
 
