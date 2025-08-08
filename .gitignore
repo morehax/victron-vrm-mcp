@@ -1,0 +1,14 @@
+# Essentials for this VRM MCP Node project
+node_modules/
+.env
+
+# Editor (optional but common)
+.vscode/
+.idea/
+
+# Cursor project metadata
+.cursor/
+
+# Windows OS cruft
+Thumbs.db
+desktop.ini
