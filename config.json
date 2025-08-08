@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "victron-vrm": {
+      "command": "node",
+      "args": ["C:\\Users\\remot\\Desktop\\VRM\\server.mjs"],
+      "env": {
+        "VRM_API_TOKEN": "7776eda349cd798764a3f6384b9808e890aa943a69f9c1c60b0508dfcc178175",
+        "VRM_SITE_ID": "373189"
+      }
+    }
+  }
+}

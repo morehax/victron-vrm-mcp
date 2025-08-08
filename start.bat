@@ -1,0 +1,1 @@
+mcphost --provider-url http://192.168.100.141:11434 -m ollama:qwen2.5:14b-instruct -p "You are an assistant for Victron VRM API. You have several Victron VRM tools connected. Start by getting general system info from the VRM." --config config.json --no-exit
